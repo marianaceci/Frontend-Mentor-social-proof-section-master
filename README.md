@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/not-so-good-responsive-layout-with-flexbox-gnPqsPJ5Eo](https://www.frontendmentor.io/solutions/not-so-good-responsive-layout-with-flexbox-gnPqsPJ5Eo)
+- Live Site URL: [https://marianaceci.github.io/Frontend-Mentor-social-proof-section-master/](https://marianaceci.github.io/Frontend-Mentor-social-proof-section-master/)
 
 ## My process
 
